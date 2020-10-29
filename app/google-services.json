@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060083565119",
+    "firebase_url": "https://map-application-b98b4.firebaseio.com",
+    "project_id": "map-application-b98b4",
+    "storage_bucket": "map-application-b98b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060083565119:android:8053e5181bb17cef292e8a",
+        "android_client_info": {
+          "package_name": "ir.laitec.mapapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060083565119-m90dskis42se8aopkvmrl2fge7ds03sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEZTlUmHsUCR4SUZMSbslVfZT-vTf1Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060083565119-m90dskis42se8aopkvmrl2fge7ds03sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
